@@ -14,7 +14,7 @@ In the exploration, I found that there was a strong relationship between all
 score features with modifying effect from the test preparation course & 
 gender. The relationship between scores was almost found to be linear also 
 with the engineered feature, percentage. Majority of students scored B & C 
-grade. Thegender ratio was found to be almost 1:1 with  females being a 
+grade. The gender ratio was found to be almost 1:1 with  females being a 
 little more in presence, in the dataset. It was found that female students 
 did comparitively better than male students. Only around 1/3rd of students 
 have completed the test preparation course. Students who completed the test 
