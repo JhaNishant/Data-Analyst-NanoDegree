@@ -2,7 +2,7 @@
 
 ## Dataset
 
-There are 1,000 diamonds in the dataset with 10 features (gender, ethnicity, 
+There are 1,000 student details in the dataset with 10 features (gender, ethnicity, 
 parental_level_of_education, lunch, test_preparation_course, math_score, 
 reading_score, writing_score, percentage & grade). 
 The dataset can be found from kaggle [here](https://www.kaggle.com/spscientist/students-performance-in-exams)
